@@ -1,2 +1,2 @@
 # TeamEmbrace
-# we will use Github to sync all and anycode documenent we need
+# We will use Github to sync all and any code
